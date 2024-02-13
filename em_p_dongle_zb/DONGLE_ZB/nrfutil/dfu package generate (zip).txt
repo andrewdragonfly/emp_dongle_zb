@@ -1,0 +1,16 @@
+C:\nrfutil>C:\nrfutil\nrfutil.exe pkg generate --hw-version 52 --application-version 1 --application "C:\emb_dev\DONGLE_ZB\DONGLE_ZB-main ota\examples\zigbee\experimental\dongle_zb\pca10056\blank\ses\Output\Debug\Exe\zb_dongle_OTA.hex" --sd-req 0x100 --key-file C:\nrfutil\private.key zb_ota_50_m_2.zip
+Zip created at zb_ota_50_m_2.zip
+
+C:\nrfutil>nrfutil pkg generate --hw-version 52 --application-version 1 --application C:\emb_dev\DONGLE_ZB\DONGLE_ZB-2224\examples\zigbee\zb_dongle_ota\pca10056\s140\ses\Output\Release\Exe\zb_dongle_ota.hex --sd-req 0xCA --key-file private.key app_dfu_package_s2_uart.zip
+Zip created at app_dfu_package_s2_uart.zip
+
+^^ did not work (I think its the 0xCA), could not update the firmware
+
+C:\nrfutil>nrfutil pkg generate --hw-version 52 --application-version 1 --application C:\emb_dev\DONGLE_ZB\DONGLE_ZB-2224\examples\zigbee\zb_dongle_ota\pca10056\s140\ses\Output\Release\Exe\zb_dongle_ota.hex --sd-req 0x100 --key-file private.key app_dfu_package_s3_uart.zip
+Zip created at app_dfu_package_s3_uart.zip
+
+C:\nrfutil>nrfutil pkg generate --hw-version 52 --application-version 1 --application C:\emb_dev\DONGLE_ZB\DONGLE_ZB-2224\examples\zigbee\zb_dongle_ota\pca10056\s140\ses\Output\Release\Exe\zb_dongle_ota.hex --sd-req 0x100 --key-file private.key app_dfu_package_s4_uart.zip
+Zip created at app_dfu_package_s4_uart.zip
+
+C:\nrfutil>nrfutil pkg generate --hw-version 52 --application-version 1 --application C:\emb_dev\DONGLE_ZB\DONGLE_ZB-main\examples\zigbee\experimental\dongle_zb\pca10056\blank\ses\Output\Debug\Exe\zb_dongle_test_ota.hex --sd-req 0x100 --key-file private.key app_dfu_package_stest1_uart.zip
+Zip created at app_dfu_package_stest1_uart.zip

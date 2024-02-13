@@ -1,0 +1,149 @@
+<!DOCTYPE CrossStudio_Session_File>
+<session>
+ <Bookmarks/>
+ <Breakpoints groups="Breakpoints" active_group="Breakpoints">
+  <BreakpointListItem trigger="" line="252" counter="0" hardwareBreakpoint="" isFunctionBreakpoint="false" action="" expression="" group="Breakpoints" type="Breakpoint" state="4" filename="main.c" useHWbreakpoint="false"/>
+  <BreakpointListItem trigger="" line="909" counter="0" hardwareBreakpoint="" isFunctionBreakpoint="false" action="" expression="" group="Breakpoints" type="Breakpoint" state="2" filename="main.c" useHWbreakpoint="false"/>
+  <BreakpointListItem trigger="" line="548" counter="0" hardwareBreakpoint="" isFunctionBreakpoint="false" action="" expression="" group="Breakpoints" type="Breakpoint" state="4" filename="../../../uart_handler.h" useHWbreakpoint="false"/>
+  <BreakpointListItem trigger="" line="488" counter="0" hardwareBreakpoint="" isFunctionBreakpoint="false" action="" expression="" group="Breakpoints" type="Breakpoint" state="4" filename="../../../zb_store.h" useHWbreakpoint="false"/>
+  <BreakpointListItem trigger="" line="517" counter="0" hardwareBreakpoint="" isFunctionBreakpoint="false" action="" expression="" group="Breakpoints" type="Breakpoint" state="4" filename="../../../zb_store.h" useHWbreakpoint="false"/>
+  <Exceptions set="MemManage;UsageFault_Coprocessor;UsageFault_CheckingError;UsageFault_StateError;BusFault;ExceptionEntryReturnFault;HardFault"/>
+ </Breakpoints>
+ <ExecutionProfileWindow/>
+ <FrameBufferWindow>
+  <FrameBufferWindow bufferHeight="-1" addressSpace="" addressText="" bufferWidth="-1"/>
+ </FrameBufferWindow>
+ <Memory1>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" addressOrder="0" columnsText="" refreshPeriod="0" name="zb_dongle" radix="16" sizeText="0" addressText=""/>
+ </Memory1>
+ <Memory2>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" addressOrder="0" columnsText="" refreshPeriod="0" name="zb_dongle" radix="16" sizeText="" addressText=""/>
+ </Memory2>
+ <Memory3>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" addressOrder="0" columnsText="" refreshPeriod="0" name="zb_dongle" radix="16" sizeText="" addressText=""/>
+ </Memory3>
+ <Memory4>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" addressOrder="0" columnsText="" refreshPeriod="0" name="zb_dongle" radix="16" sizeText="" addressText=""/>
+ </Memory4>
+ <Project>
+  <ProjectSessionItem path="zb_dongle"/>
+  <ProjectSessionItem path="zb_dongle;zb_dongle"/>
+  <ProjectSessionItem path="zb_dongle;zb_dongle;Application"/>
+  <ProjectSessionItem path="zb_dongle;zb_dongle;Board Definition"/>
+  <ProjectSessionItem path="zb_dongle;zb_dongle;Board Support"/>
+  <ProjectSessionItem path="zb_dongle;zb_dongle;None"/>
+  <ProjectSessionItem path="zb_dongle;zb_dongle;nRF_Drivers"/>
+  <ProjectSessionItem path="zb_dongle;zb_dongle;nRF_Libraries"/>
+  <ProjectSessionItem path="zb_dongle;zb_dongle;nRF_Log"/>
+  <ProjectSessionItem path="zb_dongle;zb_dongle;nRF_Zigbee"/>
+  <ProjectSessionItem path="zb_dongle;zb_dongle;Segger Startup Files"/>
+ </Project>
+ <Register1>
+  <RegisterWindow visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/MSP;CPU/PSP;CPU/PRIMASK;CPU/BASEPRI;CPU/FAULTMASK;CPU/CONTROL;CPU/internal" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context" name="zb_dongle" decimalNodes="" octalNodes="" unsignedNodes=""/>
+ </Register1>
+ <Register2>
+  <RegisterWindow visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/MSP;CPU/PSP;CPU/PRIMASK;CPU/BASEPRI;CPU/FAULTMASK;CPU/CONTROL;CPU/internal" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context" name="zb_dongle" decimalNodes="" octalNodes="" unsignedNodes=""/>
+ </Register2>
+ <Register3>
+  <RegisterWindow visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/MSP;CPU/PSP;CPU/PRIMASK;CPU/BASEPRI;CPU/FAULTMASK;CPU/CONTROL;CPU/internal" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context" name="zb_dongle" decimalNodes="" octalNodes="" unsignedNodes=""/>
+ </Register3>
+ <Register4>
+  <RegisterWindow visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/MSP;CPU/PSP;CPU/PRIMASK;CPU/BASEPRI;CPU/FAULTMASK;CPU/CONTROL;CPU/internal" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context" name="zb_dongle" decimalNodes="" octalNodes="" unsignedNodes=""/>
+ </Register4>
+ <Threads>
+  <ThreadsWindow showLists=""/>
+ </Threads>
+ <TraceWindow>
+  <Trace enabled="Yes"/>
+ </TraceWindow>
+ <Watch1>
+  <Watches active="1" update="Twice a Second">
+   <Watchpoint expression="p_addr" name="p_addr" radix="-1" linenumber="1569" filename="main.c"/>
+   <Watchpoint expression="request_buffer" name="request_buffer" radix="1" linenumber="1280" filename="main.c"/>
+   <Watchpoint expression="buffer_uart_array" name="buffer_uart_array" radix="1" linenumber="1353" filename="main.c"/>
+   <Watchpoint expression="uart_enable" name="uart_enable" radix="-1" linenumber="1294" filename="main.c"/>
+   <Watchpoint expression="test_count" name="test_count" radix="-1" linenumber="1320" filename="main.c"/>
+   <Watchpoint expression="p_start_nv_param_addr" name="p_start_nv_param_addr" radix="-1" linenumber="19" filename="../../../zb_store.h"/>
+   <Watchpoint expression="p_error_addr" name="p_error_addr" radix="-1" linenumber="31" filename="../../../zb_store.h"/>
+   <Watchpoint expression="p_paired_addr" name="p_paired_addr" radix="16" linenumber="24" filename="../../../zb_store.h"/>
+   <Watchpoint expression="batt_data" name="batt_data" radix="16" linenumber="429" filename="../../../zb_store.h"/>
+   <Watchpoint expression="p_dev_id_addr" name="p_dev_id_addr" radix="-1" linenumber="0" filename="../ses"/>
+   <Watchpoint expression="p_dev_id_addr + 1" name="p_dev_id_addr + 1" radix="-1" linenumber="0" filename="../ses"/>
+   <Watchpoint expression="p_dev_id_addr + 2" name="p_dev_id_addr + 2" radix="-1" linenumber="0" filename="../ses"/>
+   <Watchpoint expression="p_dev_id_addr + 3" name="p_dev_id_addr + 3" radix="-1" linenumber="285" filename="../../../zb_store.h"/>
+   <Watchpoint expression="p_dev_id_addr + 4" name="p_dev_id_addr + 4" radix="-1" linenumber="0" filename="../ses"/>
+   <Watchpoint expression="p_dev_id_addr + 5" name="p_dev_id_addr + 5" radix="-1" linenumber="0" filename="../ses"/>
+   <Watchpoint expression="Zigbee_uart" name="Zigbee_uart" radix="-1" linenumber="411" filename="../../../uart_handler.h"/>
+   <Watchpoint expression="trans_len_i" name="trans_len_i" radix="-1" linenumber="1246" filename="main.c"/>
+   <Watchpoint expression="p_char" name="p_char" radix="16" linenumber="357" filename="../../../zb_store.h"/>
+   <Watchpoint expression="p_date" name="p_date" radix="16" linenumber="281" filename="../../../zb_store.h"/>
+   <Watchpoint expression="p_dev_id_addr + 6" name="p_dev_id_addr + 6" radix="-1" linenumber="0" filename="../ses"/>
+   <Watchpoint expression="p_dev_id_addr + 7" name="p_dev_id_addr + 7" radix="-1" linenumber="0" filename="../ses"/>
+   <Watchpoint expression="p_dev_id_addr + 8" name="p_dev_id_addr + 8" radix="-1" linenumber="553" filename="../../../uart_handler.h"/>
+   <Watchpoint expression="p_dev_id_addr + 9" name="p_dev_id_addr + 9" radix="-1" linenumber="0" filename="../ses"/>
+   <Watchpoint expression="p_dev_id_addr + 10" name="p_dev_id_addr + 10" radix="-1" linenumber="0" filename="../ses"/>
+   <Watchpoint expression="p_dev_id_addr + 11" name="p_dev_id_addr + 11" radix="-1" linenumber="0" filename="../ses"/>
+   <Watchpoint expression="p_dev_id_addr + 12" name="p_dev_id_addr + 12" radix="-1" linenumber="0" filename="../ses"/>
+   <Watchpoint expression="p_dev_id_addr + 13" name="p_dev_id_addr + 13" radix="-1" linenumber="0" filename="../ses"/>
+   <Watchpoint expression="p_dev_id_addr + 14" name="p_dev_id_addr + 14" radix="-1" linenumber="0" filename="../ses"/>
+   <Watchpoint expression="p_dev_id_addr + 15" name="p_dev_id_addr + 15" radix="-1" linenumber="0" filename="../ses"/>
+   <Watchpoint expression="p_dev_id_addr + 16" name="p_dev_id_addr + 16" radix="-1" linenumber="0" filename="../ses"/>
+   <Watchpoint expression="p_dev_id_addr + 17" name="p_dev_id_addr + 17" radix="-1" linenumber="0" filename="../ses"/>
+   <Watchpoint expression="p_dev_id_addr + 18" name="p_dev_id_addr + 18" radix="-1" linenumber="0" filename="../ses"/>
+   <Watchpoint expression="p_dev_id_addr + 20" name="p_dev_id_addr + 20" radix="-1" linenumber="0" filename="../ses"/>
+   <Watchpoint expression="p_dev_id_addr + 21" name="p_dev_id_addr + 21" radix="-1" linenumber="0" filename="../ses"/>
+   <Watchpoint expression="p_dev_id_addr + 22" name="p_dev_id_addr + 22" radix="-1" linenumber="0" filename="../ses"/>
+   <Watchpoint expression="p_dev_id_addr + 23" name="p_dev_id_addr + 23" radix="-1" linenumber="0" filename="../ses"/>
+   <Watchpoint expression="len" name="len" radix="-1" linenumber="485" filename="../../../zb_store.h"/>
+   <Watchpoint expression="p_EE_count_addr" name="p_EE_count_addr" radix="-1" linenumber="0" filename="../ses"/>
+   <Watchpoint expression="some_global" name="some_global" radix="-1" linenumber="51" filename="../../../zb_df_errors.h"/>
+   <Watchpoint expression="f_start_nv_param_addr" name="f_start_nv_param_addr" radix="16" linenumber="203" filename="../../../zb_store.h"/>
+   <Watchpoint expression="uart_complete" name="uart_complete" radix="-1" linenumber="532" filename="../../../uart_handler.h"/>
+   <Watchpoint expression="error_count" name="error_count" radix="-1" linenumber="173" filename="../../../zb_store.h"/>
+   <Watchpoint expression="warning_count" name="warning_count" radix="-1" linenumber="174" filename="../../../zb_store.h"/>
+   <Watchpoint expression="error_code" name="error_code" radix="-1" linenumber="353" filename="../../../uart_handler.h"/>
+   <Watchpoint expression="special_case_flag" name="special_case_flag" radix="-1" linenumber="897" filename="main.c"/>
+  </Watches>
+ </Watch1>
+ <Watch2>
+  <Watches active="0" update="Never"/>
+ </Watch2>
+ <Watch3>
+  <Watches active="0" update="Never"/>
+ </Watch3>
+ <Watch4>
+  <Watches active="0" update="Never"/>
+ </Watch4>
+ <Files>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="908" useTextEdit="1" openedFrom="C:/emb_dev/DONGLE_ZB/examples/zigbee/experimental/dongle_zb/zb_ble_coms.h" useBinaryEdit="0" left="0" path="main.c" selected="1" top="879" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="4544" useTextEdit="1" openedFrom="C:/emb_dev/DONGLE_ZB/examples/zigbee/experimental/dongle_zb/pca10056/blank/ses/main.c" useBinaryEdit="0" left="0" path="../config/sdk_config.h" selected="0" top="4531" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="22" y="70" useTextEdit="1" openedFrom="C:/emb_dev/DONGLE_ZB/examples/zigbee/experimental/dongle_zb/pca10056/blank/ses/main.c" useBinaryEdit="0" left="0" path="../../../../../../../components/boards/boards.h" selected="0" top="62" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="12" y="16" useTextEdit="1" openedFrom="C:/emb_dev/DONGLE_ZB/examples/zigbee/experimental/dongle_zb/pca10056/blank/ses/main.c" useBinaryEdit="0" left="0" path="../../../df_chip_check.h" selected="0" top="0" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="11" y="413" useTextEdit="1" openedFrom="C:/emb_dev/DONGLE_ZB/examples/zigbee/experimental/dongle_zb/df_chip_check.h" useBinaryEdit="0" left="0" path="../../../zb_store.h" selected="0" top="398" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="104" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../../../../../modules/nrfx/mdk/ses_startup_nrf_common.s" selected="0" top="89" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="4" y="485" useTextEdit="1" openedFrom="C:/emb_dev/DONGLE_ZB/examples/zigbee/experimental/dongle_zb/pca10056/blank/ses/main.c" useBinaryEdit="0" left="0" path="../../../../../../../components/libraries/bsp/bsp.c" selected="0" top="470" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="8" y="65" useTextEdit="1" openedFrom="C:/emb_dev/DONGLE_ZB/examples/zigbee/experimental/dongle_zb/df_chip_check.h" useBinaryEdit="0" left="0" path="../../../../../../../components/boards/boards.c" selected="0" top="36" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="15" y="247" useTextEdit="1" openedFrom="C:/emb_dev/DONGLE_ZB/examples/zigbee/experimental/dongle_zb/uart_handler.h" useBinaryEdit="0" left="0" path="../../../zb_ble_coms.h" selected="0" top="231" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="419" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../../../../../components/libraries/log/src/nrf_log_frontend.c" selected="0" top="403" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="18" y="16" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../zb_dongle_gloabals.h" selected="0" top="6" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="12" y="166" useTextEdit="1" openedFrom="C:/emb_dev/DONGLE_ZB/examples/zigbee/experimental/dongle_zb/zb_dev_defines.h" useBinaryEdit="0" left="0" path="../../../zb_cluster_sends.h" selected="0" top="169" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="204" useTextEdit="1" openedFrom="C:/emb_dev/DONGLE_ZB/examples/zigbee/experimental/dongle_zb/uart_handler.h" useBinaryEdit="0" left="0" path="../../../../../../../components/libraries/uart/app_uart_fifo.c" selected="0" top="189" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="77" y="78" useTextEdit="1" openedFrom="C:/emb_dev/DONGLE_ZB/examples/zigbee/experimental/dongle_zb/uart_handler.h" useBinaryEdit="0" left="0" path="../../../../../../../components/drivers_nrf/nrf_soc_nosd/nrf_error.h" selected="0" top="58" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="114" useTextEdit="1" openedFrom="C:/emb_dev/DONGLE_ZB/examples/zigbee/experimental/dongle_zb/zb_store.h" useBinaryEdit="0" left="0" path="../../../../../../../modules/nrfx/hal/nrf_nvmc.c" selected="0" top="95" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="21" y="162" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../../../../../modules/nrfx/hal/nrf_gpiote.h" selected="0" top="133" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="12" y="702" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../../../../../components/zigbee/common/zigbee_helpers.c" selected="0" top="673" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="71" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../../../../../modules/nrfx/mdk/ses_startup_nrf52840.s" selected="0" top="65" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="112" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../../../../../components/libraries/fifo/app_fifo.c" selected="0" top="96" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="540" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="C:/zigbee sdk/nrf5_sdk_for_thread_and_zigbee_v4.2.0_af27f76/components/libraries/log/src/nrf_log_frontend.c" selected="0" top="525" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="67" useTextEdit="1" openedFrom="C:/emb_dev/DONGLE_ZB/examples/zigbee/experimental/dongle_zb/zb_store.h" useBinaryEdit="0" left="0" path="../../../zb_dev_defines.h" selected="0" top="21" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="104" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="C:/zigbee sdk/nrf5_sdk_for_thread_and_zigbee_v4.2.0_af27f76/modules/nrfx/mdk/ses_startup_nrf_common.s" selected="0" top="89" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="202" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="C:/zigbee sdk/nrf5_sdk_for_thread_and_zigbee_v4.2.0_af27f76/components/libraries/uart/app_uart_fifo.c" selected="0" top="172" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="8" y="65" useTextEdit="1" openedFrom="C:/emb_dev/DONGLE_ZB/examples/zigbee/experimental/dongle_zb/zb_store.h" useBinaryEdit="0" left="0" path="C:/zigbee sdk/nrf5_sdk_for_thread_and_zigbee_v4.2.0_af27f76/components/boards/boards.c" selected="0" top="50" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" openedFrom="C:/emb_dev/DONGLE_ZB/components/boards/boards.h" useBinaryEdit="0" left="0" path="../../../../../../../components/boards/pca10056_DF_50Q.h" selected="0" top="9" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="21" y="276" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="C:/Program Files/SEGGER/SEGGER Embedded Studio for ARM 5.70a/source/thumb_crt0.s" selected="0" top="264" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="3" y="69" useTextEdit="1" openedFrom="C:/emb_dev/DONGLE_ZB/examples/zigbee/experimental/dongle_zb/pca10056/blank/ses/main.c" useBinaryEdit="0" left="0" path="../../../zb_df_errors.h" selected="0" top="45" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="30" y="511" useTextEdit="1" openedFrom="C:/emb_dev/DONGLE_ZB/examples/zigbee/experimental/dongle_zb/pca10056/blank/ses/main.c" useBinaryEdit="0" left="0" path="../../../uart_handler.h" selected="0" top="176" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="74" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../../../../../external/zboss/osif/zb_nrf52_timer.c" selected="0" top="58" codecName=""/>
+ </Files>
+ <ARMCrossStudioWindow activeProject="zb_dongle" fileDialogDefaultFilter="*.c" autoConnectTarget="J-Link" buildConfiguration="Release" sessionSettings="" debugSearchFileMap="C:/emb_dev/nrf5_sdk_for_thread_and_zigbee_v4.2.0_af27f76/examples/zigbee/experimental/multi_sensor - testUART/pca10056/blank/ses/main.c&#xa;" fileDialogInitialDirectory="" debugSearchPath="" autoConnectCapabilities="3711"/>
+</session>

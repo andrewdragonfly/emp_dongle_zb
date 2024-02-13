@@ -1,0 +1,133 @@
+<!DOCTYPE CrossStudio_Session_File>
+<session>
+ <Bookmarks/>
+ <Breakpoints groups="Breakpoints" active_group="Breakpoints">
+  <BreakpointListItem trigger="" line="1083" counter="0" hardwareBreakpoint="" isFunctionBreakpoint="false" action="" expression="" group="Breakpoints" type="Breakpoint" state="2" filename="main.c" useHWbreakpoint="false"/>
+  <BreakpointListItem trigger="" line="604" counter="0" hardwareBreakpoint="" isFunctionBreakpoint="false" action="" expression="" group="Breakpoints" type="Breakpoint" state="4" filename="main.c" useHWbreakpoint="false"/>
+  <BreakpointListItem trigger="" line="650" counter="0" hardwareBreakpoint="" isFunctionBreakpoint="false" action="" expression="" group="Breakpoints" type="Breakpoint" state="4" filename="main.c" useHWbreakpoint="false"/>
+  <BreakpointListItem trigger="" line="657" counter="0" hardwareBreakpoint="" isFunctionBreakpoint="false" action="" expression="" group="Breakpoints" type="Breakpoint" state="4" filename="main.c" useHWbreakpoint="false"/>
+  <BreakpointListItem trigger="" line="705" counter="0" hardwareBreakpoint="" isFunctionBreakpoint="false" action="" expression="" group="Breakpoints" type="Breakpoint" state="4" filename="main.c" useHWbreakpoint="false"/>
+  <BreakpointListItem trigger="" line="170" counter="0" hardwareBreakpoint="" isFunctionBreakpoint="false" action="" expression="" group="Breakpoints" type="Breakpoint" state="2" filename="../../../../../../../components/zigbee/pressure_cluster/zb_store.h" useHWbreakpoint="false"/>
+  <BreakpointListItem trigger="" line="180" counter="0" hardwareBreakpoint="" isFunctionBreakpoint="false" action="" expression="" group="Breakpoints" type="Breakpoint" state="2" filename="../../../../../../../components/zigbee/pressure_cluster/zb_store.h" useHWbreakpoint="false"/>
+  <BreakpointListItem trigger="" line="183" counter="0" hardwareBreakpoint="" isFunctionBreakpoint="false" action="" expression="" group="Breakpoints" type="Breakpoint" state="2" filename="../../../../../../../components/zigbee/pressure_cluster/zb_store.h" useHWbreakpoint="false"/>
+ </Breakpoints>
+ <ExecutionProfileWindow/>
+ <FrameBufferWindow>
+  <FrameBufferWindow bufferHeight="-1" addressSpace="" addressText="" bufferWidth="-1"/>
+ </FrameBufferWindow>
+ <Memory1>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" addressOrder="0" columnsText="" refreshPeriod="0" name="zigbee_multi_sensor_pca10056" radix="16" sizeText="4" addressText="0x20003368"/>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" addressOrder="0" columnsText="" refreshPeriod="0" name="zb_dongle" radix="16" sizeText="4" addressText="0x20003368"/>
+ </Memory1>
+ <Memory2>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" addressOrder="0" columnsText="" refreshPeriod="0" name="zigbee_multi_sensor_pca10056" radix="16" sizeText="" addressText=""/>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" addressOrder="0" columnsText="" refreshPeriod="0" name="zb_dongle" radix="16" sizeText="" addressText=""/>
+ </Memory2>
+ <Memory3>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" addressOrder="0" columnsText="" refreshPeriod="0" name="zigbee_multi_sensor_pca10056" radix="16" sizeText="" addressText=""/>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" addressOrder="0" columnsText="" refreshPeriod="0" name="zb_dongle" radix="16" sizeText="" addressText=""/>
+ </Memory3>
+ <Memory4>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" addressOrder="0" columnsText="" refreshPeriod="0" name="zigbee_multi_sensor_pca10056" radix="16" sizeText="" addressText=""/>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" addressOrder="0" columnsText="" refreshPeriod="0" name="zb_dongle" radix="16" sizeText="" addressText=""/>
+ </Memory4>
+ <Project>
+  <ProjectSessionItem path="zb_dongle"/>
+  <ProjectSessionItem path="zb_dongle;zb_dongle"/>
+  <ProjectSessionItem path="zb_dongle;zb_dongle;Application"/>
+  <ProjectSessionItem path="zb_dongle;zb_dongle;Board Definition"/>
+  <ProjectSessionItem path="zb_dongle;zb_dongle;Board Support"/>
+  <ProjectSessionItem path="zb_dongle;zb_dongle;None"/>
+  <ProjectSessionItem path="zb_dongle;zb_dongle;nRF_Drivers"/>
+  <ProjectSessionItem path="zb_dongle;zb_dongle;nRF_Libraries"/>
+  <ProjectSessionItem path="zb_dongle;zb_dongle;nRF_Log"/>
+  <ProjectSessionItem path="zb_dongle;zb_dongle;nRF_Zigbee"/>
+  <ProjectSessionItem path="zb_dongle;zb_dongle;Zigbee"/>
+ </Project>
+ <Register1>
+  <RegisterWindow visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/MSP;CPU/PSP;CPU/PRIMASK;CPU/BASEPRI;CPU/FAULTMASK;CPU/CONTROL;CPU/internal" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context" name="zigbee_multi_sensor_pca10056" decimalNodes="" octalNodes="" unsignedNodes=""/>
+  <RegisterWindow visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/MSP;CPU/PSP;CPU/PRIMASK;CPU/BASEPRI;CPU/FAULTMASK;CPU/CONTROL;CPU/internal" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context" name="zb_dongle" decimalNodes="" octalNodes="" unsignedNodes=""/>
+ </Register1>
+ <Register2>
+  <RegisterWindow visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/MSP;CPU/PSP;CPU/PRIMASK;CPU/BASEPRI;CPU/FAULTMASK;CPU/CONTROL;CPU/internal" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context" name="zigbee_multi_sensor_pca10056" decimalNodes="" octalNodes="" unsignedNodes=""/>
+  <RegisterWindow visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/MSP;CPU/PSP;CPU/PRIMASK;CPU/BASEPRI;CPU/FAULTMASK;CPU/CONTROL;CPU/internal" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context" name="zb_dongle" decimalNodes="" octalNodes="" unsignedNodes=""/>
+ </Register2>
+ <Register3>
+  <RegisterWindow visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/MSP;CPU/PSP;CPU/PRIMASK;CPU/BASEPRI;CPU/FAULTMASK;CPU/CONTROL;CPU/internal" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context" name="zigbee_multi_sensor_pca10056" decimalNodes="" octalNodes="" unsignedNodes=""/>
+  <RegisterWindow visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/MSP;CPU/PSP;CPU/PRIMASK;CPU/BASEPRI;CPU/FAULTMASK;CPU/CONTROL;CPU/internal" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context" name="zb_dongle" decimalNodes="" octalNodes="" unsignedNodes=""/>
+ </Register3>
+ <Register4>
+  <RegisterWindow visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/MSP;CPU/PSP;CPU/PRIMASK;CPU/BASEPRI;CPU/FAULTMASK;CPU/CONTROL;CPU/internal" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context" name="zigbee_multi_sensor_pca10056" decimalNodes="" octalNodes="" unsignedNodes=""/>
+  <RegisterWindow visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/MSP;CPU/PSP;CPU/PRIMASK;CPU/BASEPRI;CPU/FAULTMASK;CPU/CONTROL;CPU/internal" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context" name="zb_dongle" decimalNodes="" octalNodes="" unsignedNodes=""/>
+ </Register4>
+ <Threads>
+  <ThreadsWindow showLists=""/>
+ </Threads>
+ <TraceWindow>
+  <Trace enabled="Yes"/>
+ </TraceWindow>
+ <Watch1>
+  <Watches active="1" update="Twice a Second">
+   <Watchpoint expression="shunt_buff" name="shunt_buff" radix="10" linenumber="340" filename="main.c"/>
+   <Watchpoint expression="col_buff" name="col_buff" radix="10" linenumber="345" filename="main.c"/>
+   <Watchpoint expression="send_len" name="send_len" radix="10" linenumber="346" filename="main.c"/>
+   <Watchpoint expression="buffer_uart_array" name="buffer_uart_array" radix="16" linenumber="294" filename="main.c"/>
+   <Watchpoint expression="shunt_index" name="shunt_index" radix="10" linenumber="334" filename="main.c"/>
+   <Watchpoint expression="col_index" name="col_index" radix="10" linenumber="322" filename="main.c"/>
+   <Watchpoint expression="trans_len_i" name="trans_len_i" radix="10" linenumber="319" filename="main.c"/>
+   <Watchpoint expression="dc_val" name="dc_val" radix="16" linenumber="700" filename="main.c"/>
+   <Watchpoint expression="Zigbee_uart" name="Zigbee_uart" radix="-1" linenumber="698" filename="main.c"/>
+   <Watchpoint expression="p_error_addr" name="p_error_addr" radix="16" linenumber="51" filename="../../../../../../../components/zigbee/pressure_cluster/zb_store.h"/>
+   <Watchpoint expression="p_error_addr +1" name="p_error_addr +1" radix="-1" linenumber="0" filename="../ses"/>
+   <Watchpoint expression="p_error_addr +2" name="p_error_addr +2" radix="-1" linenumber="0" filename="../ses"/>
+   <Watchpoint expression="p_error_addr +999" name="p_error_addr +999" radix="-1" linenumber="43" filename="../../../../../../../components/zigbee/pressure_cluster/zb_store.h"/>
+   <Watchpoint expression="error_count" name="error_count" radix="10" linenumber="0" filename="../ses"/>
+   <Watchpoint expression="buffer" name="buffer" radix="16" linenumber="0" filename="../ses"/>
+   <Watchpoint expression="p_addr" name="p_addr" radix="-1" linenumber="0" filename="../ses"/>
+   <Watchpoint expression="p_EE_count_addr" name="p_EE_count_addr" radix="-1" linenumber="0" filename="../ses"/>
+   <Watchpoint expression="warning_count" name="warning_count" radix="-1" linenumber="0" filename="../ses"/>
+   <Watchpoint expression="p_start_nv_param_addr" name="p_start_nv_param_addr" radix="-1" linenumber="170" filename="../../../../../../../components/zigbee/pressure_cluster/zb_store.h"/>
+   <Watchpoint expression="test_reeboot" name="test_reeboot" radix="16" linenumber="1082" filename="main.c"/>
+  </Watches>
+ </Watch1>
+ <Watch2>
+  <Watches active="0" update="Never"/>
+ </Watch2>
+ <Watch3>
+  <Watches active="0" update="Never"/>
+ </Watch3>
+ <Watch4>
+  <Watches active="0" update="Never"/>
+ </Watch4>
+ <Files>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="305" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="main.c" selected="1" top="543" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="79" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../../../../../external/zboss/osif/zb_nrf52_timer.c" selected="0" top="84" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="24" y="83" useTextEdit="1" openedFrom="C:/zigbee sdk/nrf5_sdk_for_thread_and_zigbee_v4.2.0_af27f76/examples/zigbee/experimental/multi_sensor - testUART/pca10056/blank/ses/main.c" useBinaryEdit="0" left="4" path="../../../../../../../components/zigbee/pressure_cluster/zb_zcl_batt_info.h" selected="0" top="59" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="90" y="757" useTextEdit="1" openedFrom="C:/zigbee sdk/nrf5_sdk_for_thread_and_zigbee_v4.2.0_af27f76/components/zigbee/pressure_cluster/zb_zcl_bms_measurement.h" useBinaryEdit="0" left="19" path="../../../../../../../external/zboss/include/zcl/zb_zcl_common.h" selected="0" top="743" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="15" y="55" useTextEdit="1" openedFrom="C:/zigbee sdk/nrf5_sdk_for_thread_and_zigbee_v4.2.0_af27f76/examples/zigbee/experimental/multi_sensor - testUART/pca10056/blank/ses/main.c" useBinaryEdit="0" left="0" path="../../../../../../../external/zboss/include/addons/zcl/zb_zcl_basic_addons.h" selected="0" top="48" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="9" y="5" useTextEdit="1" openedFrom="C:/zigbee sdk/nrf5_sdk_for_thread_and_zigbee_v4.2.0_af27f76/examples/zigbee/experimental/multi_sensor - testUART/pca10056/blank/ses/main.c" useBinaryEdit="0" left="0" path="../../../zb_multi_sensor.h" selected="0" top="0" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="2" y="438" useTextEdit="1" openedFrom="C:/Users/AndrewWarren/Downloads/nrf5_sdk_for_thread_and_zigbee_v4.2.0_af27f76/examples/zigbee/experimental/multi_sensor - testUART/zb_multi_sensor.h" useBinaryEdit="0" left="0" path="../../../../../../../external/zboss/include/zcl/zb_zcl_identify.h" selected="0" top="30" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="35" y="553" useTextEdit="1" openedFrom="C:/zigbee sdk/nrf5_sdk_for_thread_and_zigbee_v4.2.0_af27f76/examples/zigbee/experimental/multi_sensor - testUART/pca10056/blank/ses/main.c" useBinaryEdit="0" left="0" path="C:/Users/AndrewWarren/Downloads/nrf5_sdk_for_thread_and_zigbee_v4.2.0_af27f76/components/libraries/timer/app_timer2.c" selected="0" top="543" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="22" y="149" useTextEdit="1" openedFrom="C:/Users/AndrewWarren/Downloads/nrf5_sdk_for_thread_and_zigbee_v4.2.0_af27f76/components/libraries/timer/app_timer2.c" useBinaryEdit="0" left="0" path="C:/Users/AndrewWarren/Downloads/nrf5_sdk_for_thread_and_zigbee_v4.2.0_af27f76/components/libraries/timer/app_timer.h" selected="0" top="147" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="8" y="127" useTextEdit="1" openedFrom="C:/Users/AndrewWarren/Downloads/nrf5_sdk_for_thread_and_zigbee_v4.2.0_af27f76/examples/zigbee/experimental/multi_sensor - testUART/pca10056/blank/ses/main.c" useBinaryEdit="0" left="0" path="../../../../../../../components/libraries/timer/app_timer.h" selected="0" top="108" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="22" y="31" useTextEdit="1" openedFrom="C:/zigbee sdk/nrf5_sdk_for_thread_and_zigbee_v4.2.0_af27f76/examples/zigbee/experimental/multi_sensor - testUART/pca10056/blank/ses/main.c" useBinaryEdit="0" left="0" path="../../../../../../../components/zigbee/pressure_cluster/zb_dev_defines.h" selected="0" top="0" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="9" y="135" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../../../../../external/zboss/src/zcl/zcl_general_commands.c" selected="0" top="103" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="71" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="C:/Users/AndrewWarren/Downloads/nrf5_sdk_for_thread_and_zigbee_v4.2.0_af27f76/modules/nrfx/mdk/ses_startup_nrf52840.s" selected="0" top="64" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="540" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="C:/Users/AndrewWarren/Downloads/nrf5_sdk_for_thread_and_zigbee_v4.2.0_af27f76/components/libraries/log/src/nrf_log_frontend.c" selected="0" top="525" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="4" y="118" useTextEdit="1" openedFrom="C:/zigbee sdk/nrf5_sdk_for_thread_and_zigbee_v4.2.0_af27f76/examples/zigbee/experimental/multi_sensor - testUART/zb_store.h" useBinaryEdit="0" left="0" path="../../../../../../../modules/nrfx/hal/nrf_nvmc.c" selected="0" top="100" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="31" y="132" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../../../../../components/zigbee/common/zigbee_helpers.c" selected="0" top="87" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../../../../../external/zboss/osif/zb_nrf52_nvram.c" selected="0" top="432" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="21" y="143" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../../../../../modules/nrfx/hal/nrf_uart.h" selected="0" top="108" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="14" y="89" useTextEdit="1" openedFrom="C:/zigbee sdk/nrf5_sdk_for_thread_and_zigbee_v4.2.0_af27f76/examples/zigbee/experimental/multi_sensor - testUART/pca10056/blank/ses/main.c" useBinaryEdit="0" left="0" path="../../../../../../../components/zigbee/pressure_cluster/zb_ble_coms.h" selected="0" top="75" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="2" y="66" useTextEdit="1" openedFrom="C:/zigbee sdk/nrf5_sdk_for_thread_and_zigbee_v4.2.0_af27f76/examples/zigbee/experimental/multi_sensor - testUART/pca10056/blank/ses/main.c" useBinaryEdit="0" left="0" path="../../../../../../../modules/nrfx/drivers/include/nrfx_gpiote.h" selected="0" top="49" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="540" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../../../../../components/libraries/log/src/nrf_log_frontend.c" selected="0" top="526" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="15" y="26" useTextEdit="1" openedFrom="C:/zigbee sdk/nrf5_sdk_for_thread_and_zigbee_v4.2.0_af27f76/examples/zigbee/experimental/multi_sensor - testUART/pca10056/blank/ses/main.c" useBinaryEdit="0" left="0" path="../../../uart_handler.h" selected="0" top="0" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" openedFrom="C:/zigbee sdk/nrf5_sdk_for_thread_and_zigbee_v4.2.0_af27f76/examples/zigbee/experimental/multi_sensor - testUART/uart_handler.h" useBinaryEdit="0" left="0" path="../../../zb_dongle_gloabals.h" selected="0" top="0" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" openedFrom="C:/zigbee sdk/nrf5_sdk_for_thread_and_zigbee_v4.2.0_af27f76/examples/zigbee/experimental/multi_sensor - testUART/uart_handler.h" useBinaryEdit="0" left="0" path="../../../zb_dev_defines.h" selected="0" top="0" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="39" useTextEdit="1" openedFrom="C:/zigbee sdk/nrf5_sdk_for_thread_and_zigbee_v4.2.0_af27f76/examples/zigbee/experimental/multi_sensor - testUART/uart_handler.h" useBinaryEdit="0" left="0" path="../../../zb_store.h" selected="0" top="28" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="24" y="1" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../zb_zcl_batt_info.c" selected="0" top="0" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" openedFrom="C:/zigbee sdk/nrf5_sdk_for_thread_and_zigbee_v4.2.0_af27f76/examples/zigbee/experimental/multi_sensor - testUART/zb_zcl_batt_info.c" useBinaryEdit="0" left="0" path="../../../zb_zcl_bms_measurement.h" selected="0" top="9" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="1" y="190" useTextEdit="1" openedFrom="C:/zigbee sdk/nrf5_sdk_for_thread_and_zigbee_v4.2.0_af27f76/examples/zigbee/experimental/multi_sensor - testUART/pca10056/blank/ses/main.c" useBinaryEdit="0" left="0" path="../../../zb_cluster_sends.h" selected="0" top="0" codecName="Default"/>
+ </Files>
+ <ARMCrossStudioWindow activeProject="zb_dongle" fileDialogDefaultFilter="*" autoConnectTarget="J-Link" buildConfiguration="Release" sessionSettings="" debugSearchFileMap="" fileDialogInitialDirectory="C:/zigbee sdk/nrf5_sdk_for_thread_and_zigbee_v4.2.0_af27f76/examples/zigbee/experimental/multi_sensor - testUART" debugSearchPath="" autoConnectCapabilities="3199"/>
+</session>

@@ -1,0 +1,27 @@
+#ifndef ZB_DONGLE_GLOBALS__
+#define ZB_DONGLE_GLOBALS__
+
+
+//function declare
+uint32_t time_nvmc_update (int value);
+uint32_t time_init();
+void error_messages(uint8_t value, bool reset);
+void warning_messages(uint8_t value, bool reset);
+void refresh_zb();
+void rethink(uint8_t cmd);
+
+extern uint8_t request_buffer [13];
+extern int send_len;
+
+extern void uart_internal_init (uint8_t param);
+extern void uart_external_init (uint8_t param);
+extern void get_uart_from_request (uint8_t param);
+
+extern bool uart_enable;
+bool led_states = true;
+uint8_t reset_counter = 0;
+
+
+
+#endif
+

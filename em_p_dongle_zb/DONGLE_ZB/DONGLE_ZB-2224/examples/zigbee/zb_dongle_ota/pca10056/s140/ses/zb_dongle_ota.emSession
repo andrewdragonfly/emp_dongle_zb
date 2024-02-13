@@ -1,0 +1,102 @@
+<!DOCTYPE CrossStudio_Session_File>
+<session>
+ <Bookmarks/>
+ <Breakpoints groups="Breakpoints" active_group="Breakpoints">
+  <BreakpointListItem trigger="" line="544" counter="0" hardwareBreakpoint="" isFunctionBreakpoint="false" action="" expression="" group="Breakpoints" type="Breakpoint" state="2" filename="../../../main.c" useHWbreakpoint="false"/>
+  <BreakpointListItem trigger="" line="796" counter="0" hardwareBreakpoint="" isFunctionBreakpoint="false" action="" expression="" group="Breakpoints" type="Breakpoint" state="2" filename="../../../main.c" useHWbreakpoint="false"/>
+  <Exceptions set="MemManage;UsageFault_Coprocessor;UsageFault_CheckingError;UsageFault_StateError;BusFault;ExceptionEntryReturnFault;HardFault"/>
+ </Breakpoints>
+ <ExecutionProfileWindow/>
+ <FrameBufferWindow>
+  <FrameBufferWindow bufferHeight="-1" addressSpace="" addressText="" bufferWidth="-1"/>
+ </FrameBufferWindow>
+ <Memory1>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" addressOrder="0" columnsText="" refreshPeriod="0" name="zb_dongle_ota" radix="16" sizeText="" addressText=""/>
+ </Memory1>
+ <Memory2>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" addressOrder="0" columnsText="" refreshPeriod="0" name="zb_dongle_ota" radix="16" sizeText="" addressText=""/>
+ </Memory2>
+ <Memory3>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" addressOrder="0" columnsText="" refreshPeriod="0" name="zb_dongle_ota" radix="16" sizeText="" addressText=""/>
+ </Memory3>
+ <Memory4>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" addressOrder="0" columnsText="" refreshPeriod="0" name="zb_dongle_ota" radix="16" sizeText="" addressText=""/>
+ </Memory4>
+ <Project>
+  <ProjectSessionItem path="zb_dongle_ota"/>
+  <ProjectSessionItem path="zb_dongle_ota;zb_dongle_ota"/>
+  <ProjectSessionItem path="zb_dongle_ota;zb_dongle_ota;Application"/>
+  <ProjectSessionItem path="zb_dongle_ota;zb_dongle_ota;Board Definition"/>
+  <ProjectSessionItem path="zb_dongle_ota;zb_dongle_ota;Board Support"/>
+  <ProjectSessionItem path="zb_dongle_ota;zb_dongle_ota;Example"/>
+  <ProjectSessionItem path="zb_dongle_ota;zb_dongle_ota;None"/>
+  <ProjectSessionItem path="zb_dongle_ota;zb_dongle_ota;nRF_BLE"/>
+  <ProjectSessionItem path="zb_dongle_ota;zb_dongle_ota;nRF_BLE_Services"/>
+  <ProjectSessionItem path="zb_dongle_ota;zb_dongle_ota;nRF_DFU"/>
+  <ProjectSessionItem path="zb_dongle_ota;zb_dongle_ota;nRF_Drivers"/>
+  <ProjectSessionItem path="zb_dongle_ota;zb_dongle_ota;nRF_Libraries"/>
+  <ProjectSessionItem path="zb_dongle_ota;zb_dongle_ota;nRF_Log"/>
+  <ProjectSessionItem path="zb_dongle_ota;zb_dongle_ota;nRF_SoftDevice"/>
+  <ProjectSessionItem path="zb_dongle_ota;zb_dongle_ota;nRF_Zigbee"/>
+ </Project>
+ <Register1>
+  <RegisterWindow visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/MSP;CPU/PSP;CPU/PRIMASK;CPU/BASEPRI;CPU/FAULTMASK;CPU/CONTROL;CPU/internal" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context" name="zb_dongle_ota" decimalNodes="" octalNodes="" unsignedNodes=""/>
+ </Register1>
+ <Register2>
+  <RegisterWindow visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/MSP;CPU/PSP;CPU/PRIMASK;CPU/BASEPRI;CPU/FAULTMASK;CPU/CONTROL;CPU/internal" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context" name="zb_dongle_ota" decimalNodes="" octalNodes="" unsignedNodes=""/>
+ </Register2>
+ <Register3>
+  <RegisterWindow visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/MSP;CPU/PSP;CPU/PRIMASK;CPU/BASEPRI;CPU/FAULTMASK;CPU/CONTROL;CPU/internal" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context" name="zb_dongle_ota" decimalNodes="" octalNodes="" unsignedNodes=""/>
+ </Register3>
+ <Register4>
+  <RegisterWindow visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/MSP;CPU/PSP;CPU/PRIMASK;CPU/BASEPRI;CPU/FAULTMASK;CPU/CONTROL;CPU/internal" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context" name="zb_dongle_ota" decimalNodes="" octalNodes="" unsignedNodes=""/>
+ </Register4>
+ <Threads>
+  <ThreadsWindow showLists=""/>
+ </Threads>
+ <TraceWindow>
+  <Trace enabled="Yes"/>
+ </TraceWindow>
+ <Watch1>
+  <Watches active="1" update="Twice a Second">
+   <Watchpoint expression="pca10056_DF_50Q" name="pca10056_DF_50Q" radix="16" linenumber="71" filename="../../../../../../components/boards/boards.h"/>
+   <Watchpoint expression="buffer_uart_array" name="buffer_uart_array" radix="-1" linenumber="494" filename="../../../main.c"/>
+  </Watches>
+ </Watch1>
+ <Watch2>
+  <Watches active="0" update="Never"/>
+ </Watch2>
+ <Watch3>
+  <Watches active="0" update="Never"/>
+ </Watch3>
+ <Watch4>
+  <Watches active="0" update="Never"/>
+ </Watch4>
+ <Files>
+  <SessionOpenFile windowGroup="DockEditLeft" x="8" y="795" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../main.c" selected="1" top="782" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="8" y="142" useTextEdit="1" openedFrom="C:/emb_dev/DONGLE_ZB/DONGLE_ZB-2224/examples/zigbee/app_utils/nus.c" useBinaryEdit="0" left="0" path="../config/sdk_config.h" selected="0" top="123" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="9" y="54" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="main_original.c" selected="0" top="75" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="5" y="101" useTextEdit="1" openedFrom="C:/emb_dev/DONGLE_ZB/DONGLE_ZB-2224/examples/zigbee/zb_dongle_ota/main.c" useBinaryEdit="0" left="0" path="../../../uart_handler.h" selected="0" top="271" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="28" y="66" useTextEdit="1" openedFrom="D:/Users/alx97/Desktop/DeviceDownload/DragonFly/DONGLE_ZB/DONGLE_ZB/examples/zigbee/ble_zigbee_lightsw/main.c" useBinaryEdit="0" left="0" path="../../../../../../components/libraries/pwm/app_pwm.h" selected="0" top="57" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="8" y="112" useTextEdit="1" openedFrom="D:/Users/alx97/Desktop/DeviceDownload/DragonFly/DONGLE_ZB/DONGLE_ZB/examples/zigbee/ble_zigbee_lightsw/main.c" useBinaryEdit="0" left="0" path="../../../../../../components/libraries/timer/app_timer.h" selected="0" top="93" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="10" y="2070" useTextEdit="1" openedFrom="D:/Users/alx97/Desktop/DeviceDownload/DragonFly/DONGLE_ZB/DONGLE_ZB/examples/zigbee/ble_zigbee_lightsw/main.c" useBinaryEdit="0" left="0" path="../../../../../../external/zboss/include/zboss_api_zcl.h" selected="0" top="2051" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="21" y="529" useTextEdit="1" openedFrom="D:/Users/alx97/Desktop/DeviceDownload/DragonFly/DONGLE_ZB/DONGLE_ZB/examples/zigbee/ble_zigbee_lightsw/main.c" useBinaryEdit="0" left="0" path="../../../../../../modules/nrfx/hal/nrf_gpio.h" selected="0" top="510" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="14" y="282" useTextEdit="1" openedFrom="D:/Users/alx97/Desktop/DeviceDownload/DragonFly/DONGLE_ZB/DONGLE_ZB/examples/zigbee/ble_zigbee_lightsw/main.c" useBinaryEdit="0" left="0" path="../../../zb_cluster_sends.h" selected="0" top="244" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="23" y="70" useTextEdit="1" openedFrom="D:/Users/alx97/Desktop/DeviceDownload/DragonFly/DONGLE_ZB/DONGLE_ZB/components/boards/boards.c" useBinaryEdit="0" left="0" path="../../../../../../components/boards/boards.h" selected="0" top="48" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="12" y="39" useTextEdit="1" openedFrom="D:/Users/alx97/Desktop/DeviceDownload/DragonFly/DONGLE_ZB/DONGLE_ZB/examples/zigbee/zb_dongle_ota/main.c" useBinaryEdit="0" left="0" path="../../../../../../components/boards/boards.c" selected="0" top="16" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="25" y="72" useTextEdit="1" openedFrom="D:/Users/alx97/Desktop/DeviceDownload/DragonFly/DONGLE_ZB/DONGLE_ZB/components/boards/boards.c" useBinaryEdit="0" left="0" path="../../../../../../components/boards/pca10056.h" selected="0" top="81" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="534" useTextEdit="1" openedFrom="D:/Users/alx97/Desktop/DeviceDownload/DragonFly/DONGLE_ZB/DONGLE_ZB/examples/zigbee/zb_dongle_ota/main.c" useBinaryEdit="0" left="0" path="../../../../../../components/zigbee/common/zigbee_helpers.c" selected="0" top="515" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="9" y="6" useTextEdit="1" openedFrom="D:/Users/alx97/Desktop/DeviceDownload/DragonFly/DONGLE_ZB/DONGLE_ZB/examples/zigbee/ble_zigbee_lightsw/main.c" useBinaryEdit="0" left="0" path="../../../zb_dongle_gloabals.h" selected="0" top="0" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="10" y="484" useTextEdit="1" openedFrom="D:/Users/alx97/Desktop/DeviceDownload/DragonFly/DONGLE_ZB/DONGLE_ZB/examples/zigbee/ble_zigbee_lightsw/main.c" useBinaryEdit="0" left="0" path="../../../../../../components/libraries/bsp/bsp.c" selected="0" top="466" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="218" useTextEdit="1" openedFrom="C:/emb_dev/DONGLE_ZB/DONGLE_ZB-2224/components/boards/boards.h" useBinaryEdit="0" left="0" path="../../../../../../components/boards/pca10056_DF_50Q.h" selected="0" top="145" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="24" y="113" useTextEdit="1" openedFrom="D:/Users/alx97/Desktop/DeviceDownload/DragonFly/DONGLE_ZB/DONGLE_ZB/examples/zigbee/zb_dongle_ota/zb_store.h" useBinaryEdit="0" left="0" path="../../../../../../modules/nrfx/hal/nrf_nvmc.c" selected="0" top="99" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="14" y="46" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../../../../components/softdevice/common/nrf_sdh_soc.c" selected="0" top="24" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="32" y="202" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../../../../components/libraries/fstorage/nrf_fstorage_sd.c" selected="0" top="183" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="52" y="99" useTextEdit="1" openedFrom="D:/Users/alx97/Desktop/DeviceDownload/DragonFly/DONGLE_ZB/DONGLE_ZB/modules/nrfx/hal/nrf_nvmc.c" useBinaryEdit="0" left="0" path="../../../../../../modules/nrfx/hal/nrf_nvmc.h" selected="0" top="82" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="64" y="943" useTextEdit="1" openedFrom="D:/Users/alx97/Desktop/DeviceDownload/DragonFly/DONGLE_ZB/DONGLE_ZB/components/libraries/fstorage/nrf_fstorage_sd.c" useBinaryEdit="0" left="0" path="../../../../../../components/softdevice/s140/headers/nrf_soc.h" selected="0" top="912" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="7" y="44" useTextEdit="1" openedFrom="D:/Users/alx97/Desktop/DeviceDownload/DragonFly/DONGLE_ZB/DONGLE_ZB/examples/zigbee/zb_dongle_ota/main.c" useBinaryEdit="0" left="0" path="../../../zb_store.h" selected="0" top="27" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="65" y="346" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../../app_utils/nus.c" selected="0" top="330" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../../../../components/ble/ble_services/ble_nus/ble_nus.c" selected="0" top="75" codecName="Default"/>
+ </Files>
+ <ARMCrossStudioWindow activeProject="zb_dongle_ota" fileDialogDefaultFilter="*" autoConnectTarget="J-Link" buildConfiguration="Release" sessionSettings="" debugSearchFileMap="" fileDialogInitialDirectory="D:/Users/alx97/Desktop/DeviceDownload/DragonFly/DONGLE_ZB/DONGLE_ZB/components/libraries/fstorage" debugSearchPath="" autoConnectCapabilities="3711"/>
+</session>

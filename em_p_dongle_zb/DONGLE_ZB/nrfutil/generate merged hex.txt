@@ -1,0 +1,5 @@
+C:\nrfutil\50>mergehex -m C:\nrfutil\50\secure_bootloader_ble_s140_pca10056.hex C:\nrfutil\50\s140_nrf52_7.2.0_softdevice.hex -o mergedbootloader.hex
+Parsing input files.
+Merging file "secure_bootloader_ble_s140_pca10056.hex" into output.
+Merging file "s140_nrf52_7.2.0_softdevice.hex" into output.
+Storing merged file.

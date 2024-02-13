@@ -1,0 +1,29 @@
+C:\Users\AndrewWarren>nrfjprog -f nrf52 --eraseall
+Erasing user available code and UICR flash areas.
+Applying system reset.
+
+C:\Users\AndrewWarren>nrfjprog -f nrf52 --program C:\nrfutil\50\mergedbootloader.hex --sectorerase -r
+[ ######               ]   0.000s | Erase file - Check image                                       [ ##                   ]   0.000s | Check image validity - Initialize device info                  [ #####                ]   0.000s | Check image validity - Check region 0 settings                 [ ########             ]   0.000s | Check image validity - block 1 of 5                            [ ###########          ]   0.012s | Check image validity - block 2 of 5                            [ ##############       ]   0.011s | Check image validity - block 3 of 5                            [ #################    ]   0.006s | Check image validity - block 4 of 5                            [ #################### ]   0.037s | Check image validity - Finished                                [ #############        ]   0.000s | Erase file - Erasing                                           [ ####                 ]   0.000s | Erasing non-volatile memory - block 1 of 4                     [ ########             ]   0.172s | Erasing non-volatile memory - block 2 of 4                     [ ############         ]   2.998s | Erasing non-volatile memory - block 3 of 4                     [ ################     ]   1.297s | Erasing non-volatile memory - block 4 of 4                     [ #################### ]   0.000s | Erasing non-volatile memory - Erase successful                 [ #################### ]   5.188s | Erase file - Done erasing                                      
+[ ######               ]   0.000s | Program file - Checking image                                  [ ##                   ]   0.000s | Check image validity - Initialize device info                  [ #####                ]   0.000s | Check image validity - Check region 0 settings                 [ ########             ]   7.337s | Check image validity - block 1 of 5                            [ ###########          ]   4.016s | Check image validity - block 2 of 5                            [ ##############       ]   2.178s | Check image validity - block 3 of 5                            [ #################    ]   0.943s | Check image validity - block 4 of 5                            [ #################### ]   0.030s | Check image validity - Finished                                [ #############        ]   0.000s | Program file - Programming                                     [ ####                 ]   0.000s | Programming image - block 1 of 4                               [ ########             ]   0.058s | Programming image - block 2 of 4                               [ ############         ]   1.277s | Programming image - block 3 of 4                               [ ################     ]   0.554s | Programming image - block 4 of 4                               [ #################### ]   0.000s | Programming image - Write successful                           [ #################### ]   2.221s | Program file - Done programming                                
+WARNING: A programming operation has been performed without --verify.
+WARNING: Programming can fail without error.
+Applying system reset.
+Run.
+
+
+FYI
+
+this is what running selco looked like. very different. 
+
+
+C:\Users\AndrewWarren>nrfjprog -f nrf52 --eraseall
+Erasing user available code and UICR flash areas.
+Applying system reset.
+
+C:\Users\AndrewWarren>nrfjprog -f nrf52 --program C:\Users\AndrewWarren\Downloads\nrfutil-selco\bootloader_dfu_zigbee_dongle.hex --sectorerase -r
+[ #################### ]   5.203s | Erase file - Done erasing
+[ #################### ]   2.218s | Program file - Done programming
+WARNING: A programming operation has been performed without --verify.
+WARNING: Programming can fail without error.
+Applying system reset.
+Run.
